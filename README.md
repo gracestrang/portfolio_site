@@ -1,4 +1,4 @@
-ReadMe for Portfolio site. 
+ReadMe for My Portfolio site. 
 
 
-I built this site with just raw html, css, and js. Big thanks to wow.js, anime.js, and animate.css contributors for the additional assets! 
+Good ole html, css and js. Big thanks to wow.js, anime.js (Julian Garnier), animate.css (@daneden), and normalize.css (Nicolas Gallagher) and contributors for the additional assets! 
